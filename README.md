@@ -1,3 +1,5 @@
+## Introduction to Econometrics — OLS estimator in Python
+
 This was an assignment for Introduction to Econometrics, a course taught by Prof. Jeroen Kerkhof at the Vrije Universiteit Brussel (VUB). This was an introductory course on regression models and time series analysis. 
 
 The project was done in groups of 2 people, and I collaborated on this project with Max Temmerman.
